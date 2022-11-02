@@ -1,0 +1,85 @@
+.flex {
+    background-color: #181818;
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.element {
+    width: 12.5%;
+    padding: 5%;
+    text-align: center;
+}
+
+.element1 {
+    width: 20%;
+    padding: 5%;
+    text-align: center;
+}
+.element a:hover , .element1 a:hover{
+    background-color: #181818;
+    opacity: 0.6;
+    color: gray;
+}
+.dance3 a:hover , .dance4 a:hover{
+    background-color: #181818;
+    color:gray;
+    border-width:1.5em;
+}
+* {
+    background-color: #181818;
+    color: white;
+    font-family: 'Graphik', sans-serif;
+    margin-top: -10px;
+}
+
+.dance {
+    text-align: center;
+    font-size: 6em;
+    font-weight: 500;
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-top: 3%;
+    margin-bottom: 5%;
+}
+
+.dance1 {
+    text-align: center;
+    font-size: 1.4em;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 5%;
+    line-height: 1.5;
+}
+
+.flex2 {
+    display: flex;
+    margin-left: 33%;
+    margin-right: 30%;
+}
+
+.dance3 , .dance4 {
+    border: solid;
+    width: 15.2em;
+    height: 2.5em;
+    margin-right: 5%;
+}
+.dance3 {
+    border-color:#4452fe;
+    background-color: #4452fe;
+    padding-top: 4%;
+    padding-left:13%;
+}
+.dance4{
+    border-color: white;
+    padding-top: 4%;
+    padding-left:15%;
+}
+.dance5 {
+    text-decoration: none;
+    border-style:solid;
+    border-color: white;
+    padding: 10%;
+    padding-left: 50%;
+    padding-right: 50%;
+}
